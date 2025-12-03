@@ -90,7 +90,7 @@ Com técnicas e recursos como:
 Clone ou baixe o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/hacbjr/PEX4
 ```
 
 Abra o arquivo `index.html` no navegador:
@@ -131,5 +131,3 @@ Desenvolvido para representar a excelência e tradição da:
 **Taveira’s Espaço Vip – Barbearia**  
 Cuidado, estilo e autenticidade desde 2010.
 ```
-
-Deseja que esse conteúdo seja adaptado para o arquivo `README.md` do GitHub com links e formatação visual aprimorada (badges, seções clicáveis, etc.)?
